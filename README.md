@@ -4,7 +4,7 @@ A Tableau and Excel case study analysing employee attrition, retention risk, ten
 
 [View the full portfolio case study](https://mayfuns.github.io/mariam-analytics-portfolio/talent-pulse.html)
 
-![Talent Pulse workforce analytics dashboard](https://raw.githubusercontent.com/Mayfuns/mariam-analytics-portfolio/main/assets/images/talent-pulse.png)
+![Talent Pulse workforce analytics dashboard](01_dashboard/talent-pulse-dashboard.png)
 
 ## Project overview
 
@@ -101,3 +101,21 @@ This project is part of my Data & BI Analytics portfolio.
 
 **Mariam Adetoyi**  
 Data Analyst | Business Intelligence | Workforce Analytics
+
+
+## Repository structure
+
+```text
+01_dashboard/
+  ├── talent-pulse-dashboard.png
+  └── README.md
+
+02_tableau/
+  └── README.md
+
+03_data/
+  └── README.md
+
+04_documentation/
+  └── README.md
+```
