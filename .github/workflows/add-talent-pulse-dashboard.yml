@@ -29,3 +29,5 @@ jobs:
             git commit -m "Add Talent Pulse dashboard image"
             git push
           fi
+
+# one-off trigger
