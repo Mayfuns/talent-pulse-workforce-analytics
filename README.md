@@ -4,8 +4,6 @@ A Tableau and Excel case study analysing employee attrition, retention risk, ten
 
 [View the full portfolio case study](https://mayfuns.github.io/mariam-analytics-portfolio/talent-pulse.html)
 
-![Talent Pulse workforce analytics dashboard](01_dashboard/talent-pulse-dashboard.png)
-
 ## Project overview
 
 Talent Pulse needed a clearer view of employee attrition across departments, age groups, tenure and other workforce segments.
