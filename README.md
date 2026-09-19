@@ -1,5 +1,3 @@
-[View the full portfolio case study](https://mayfuns.github.io/mariam-analytics-portfolio/talent-pulse.html)
-
 ## Project overview
 
 Talent Pulse needed a clearer view of employee attrition across departments, age groups, tenure and other workforce segments.
